@@ -1,0 +1,25 @@
+
+‚
+java:S3008>"`Rename this field "SIMPLE_LETTER_CREATOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ίÿ‘–ϋÿÿÿÿ8™ρέ1
+
+java:S3008A"hRename this field "SIMPLE_CURRIED_LETTER_CREATOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(λΧ­¥ύÿÿÿÿ8™ρέ1
+{
+java:S3008D"YRename this field "LETTER_CREATOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ό£ώÿÿÿÿ8‰™ρέ1
+Z
+java:S1612?"8Replace this lambda with method reference 'Letter::new'.(ΌΧÒηϋÿÿÿÿ8”™ρέ1
+`
+java:S1117?">Rename "salutation" which hides the field declared at line 12.(ΌΧÒηϋÿÿÿÿ8”™ρέ1
+Z
+java:S1117?"8Rename "body" which hides the field declared at line 13.(ΌΧÒηϋÿÿÿÿ8•™ρέ1
+Z
+java:S1117B"8Rename "body" which hides the field declared at line 13.(ύλή±ϊÿÿÿÿ8–™ρέ1
+]
+java:S1117F";Rename "closing" which hides the field declared at line 14.(‰Ιΐ—ϊÿÿÿÿ8—™ρέ1
+]
+java:S1117G"@Rename "dateOfLetter" which hides the field declared at line 11.(»θ‹Ε8—™ρέ1
+^
+java:S1117H"ARename "insideAddress" which hides the field declared at line 10.(Α›Ρι8—™ρέ1
+[
+java:S1117I">Rename "salutation" which hides the field declared at line 12.(Ζ®£8™ρέ1
+U
+java:S1117J"8Rename "body" which hides the field declared at line 13.(¶ζΑΒ8™ρέ1

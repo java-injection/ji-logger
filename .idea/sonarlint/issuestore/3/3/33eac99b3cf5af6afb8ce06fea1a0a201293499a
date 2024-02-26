@@ -1,0 +1,11 @@
+
+p
+java:S3008"SRename this field "_verbose" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Šú‹8³ÛĞšŞ1
+G	java:S106"+Replace this use of System.out by a logger.(Ô³ª‚8ÁÛĞšŞ1
+F	java:S106E"+Replace this use of System.out by a logger.(ºŒ¤38ãÛĞšŞ1
+O
+java:S1068"-Remove this unused "alwaysLog" private field.(ãµÕúÿÿÿÿ8÷ÛĞšŞ1
+K
+java:S10689")Remove this unused "level" private field.(™â»¹øÿÿÿÿ8ÖÍü»Ş1
+M
+java:S1068:"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿ8×Íü»Ş1

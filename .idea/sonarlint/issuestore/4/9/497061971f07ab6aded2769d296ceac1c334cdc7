@@ -1,0 +1,60 @@
+
+v
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôø¿ž8Ò¾¶¾Þ1
+w
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôø¿ž8Ó¾¶¾Þ1
+q
+java:S1192B"ODefine a constant instead of duplicating this literal "target/classes" 4 times.(ç­Ÿ ÿÿÿÿÿ8Ó¾¶¾Þ1
+L
+java:S1066U"/Merge this if statement with the enclosing one.(èÚ¤Ã8Õ¾¶¾Þ1
+n
+java:S2095F"LUse try-with-resources or close this "URLClassLoader" in a "finally" clause.(á¦ÔÛüÿÿÿÿ8¶à¶¾Þ1
+n
+java:S2095D"LUse try-with-resources or close this "URLClassLoader" in a "finally" clause.(“éªûÿÿÿÿ8¶à¶¾Þ1
+G	java:S106#"+Replace this use of System.out by a logger.(Ì˜Ãë8Äà¶¾Þ1
+L	java:S106."+Replace this use of System.out by a logger.(‘ðóñúÿÿÿÿ8Ëà¶¾Þ1
+L	java:S1063"+Replace this use of System.out by a logger.(º‡ß¦úÿÿÿÿ8Ìà¶¾Þ1
+G	java:S1066"+Replace this use of System.out by a logger.(ÅÆð€8Ìà¶¾Þ1
+G	java:S1068"+Replace this use of System.out by a logger.(«Ì´™8Íà¶¾Þ1
+L	java:S1069"+Replace this use of System.out by a logger.(ìðàÉúÿÿÿÿ8Íà¶¾Þ1
+]	java:S125>"<This block of commented-out lines of code should be removed.(»ùà¶úÿÿÿÿ8Ïà¶¾Þ1
+b
+java:S2147o"ECombine this catch with the one at line 107, which has the same body.(Ö¨š•8Ïà¶¾Þ1
+G	java:S106G"+Replace this use of System.out by a logger.(ê€×Ï8Óà¶¾Þ1
+L	java:S106M"+Replace this use of System.out by a logger.(æ®Üëüÿÿÿÿ8Ôà¶¾Þ1
+L	java:S106O"+Replace this use of System.out by a logger.(ã ªœùÿÿÿÿ8Õà¶¾Þ1
+X	java:S125R"<This block of commented-out lines of code should be removed.(øèâ–8Õà¶¾Þ1
+]	java:S125T"<This block of commented-out lines of code should be removed.(ª€ÕÉÿÿÿÿÿ8Õà¶¾Þ1
+G	java:S106V"+Replace this use of System.out by a logger.(«Š½†8Öà¶¾Þ1
+G	java:S106W"+Replace this use of System.out by a logger.(ÅÎüû8Öà¶¾Þ1
+L	java:S106`"+Replace this use of System.out by a logger.(«»—Õþÿÿÿÿ8×à¶¾Þ1
+L	java:S106a"+Replace this use of System.out by a logger.(á‰ùçùÿÿÿÿ8Øà¶¾Þ1
+F	java:S106d"+Replace this use of System.err by a logger.(áûåu8Øà¶¾Þ1
+L	java:S106h"+Replace this use of System.err by a logger.(öÅùÉøÿÿÿÿ8Ùà¶¾Þ1
+L	java:S106l"+Replace this use of System.err by a logger.(¯äß¤øÿÿÿÿ8Úà¶¾Þ1
+L	java:S106p"+Replace this use of System.err by a logger.(¯äß¤øÿÿÿÿ8Ûà¶¾Þ1
+L	java:S106t"+Replace this use of System.err by a logger.(ýˆÓ¦ûÿÿÿÿ8Üà¶¾Þ1
+G	java:S106y"+Replace this use of System.err by a logger.(ÁÅ¤8Þà¶¾Þ1
+G	java:S106"+Replace this use of System.out by a logger.(ÅÆð€8ßà¶¾Þ1
+H	java:S106€"+Replace this use of System.out by a logger.(ç‘þÎ8àà¶¾Þ1
+H	java:S106ƒ"+Replace this use of System.out by a logger.(«Ì´™8áà¶¾Þ1
+M	java:S106„"+Replace this use of System.out by a logger.(ìðàÉúÿÿÿÿ8áà¶¾Þ1
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(ß‹ íùÿÿÿÿ8âà¶¾Þ1
+^	java:S125‘"<This block of commented-out lines of code should be removed.(€ŸôŒüÿÿÿÿ8âà¶¾Þ1
+H	java:S106™"+Replace this use of System.out by a logger.(ê€×Ï8äà¶¾Þ1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(ŠÞõ½ùÿÿÿÿ8åà¶¾Þ1
+H	java:S106¡"+Replace this use of System.out by a logger.(¢Óð’8åà¶¾Þ1
+M	java:S106¤"+Replace this use of System.out by a logger.(®Í¨—þÿÿÿÿ8æà¶¾Þ1
+H	java:S106¨"+Replace this use of System.out by a logger.(…¥§Å8æà¶¾Þ1
+M	java:S106À"+Replace this use of System.out by a logger.(Í×Òˆýÿÿÿÿ8æà¶¾Þ1
+Y	java:S125¬"<This block of commented-out lines of code should be removed.(åþ¹¾8çà¶¾Þ1
+^	java:S125±"<This block of commented-out lines of code should be removed.(€ª«êÿÿÿÿÿ8çà¶¾Þ1
+M	java:S106Ä"+Replace this use of System.out by a logger.(¯Ãóûÿÿÿÿ8çà¶¾Þ1
+M	java:S106Ì"+Replace this use of System.out by a logger.(¸‹Ü¿ùÿÿÿÿ8èà¶¾Þ1
+H	java:S106Í"+Replace this use of System.out by a logger.(§—Ö8éà¶¾Þ1
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.(¡Õ±š8êà¶¾Þ1
+M	java:S106ß"+Replace this use of System.out by a logger.(á¶Øýÿÿÿÿ8ëà¶¾Þ1
+M	java:S106ë"+Replace this use of System.out by a logger.(¬áÉäúÿÿÿÿ8íà¶¾Þ1
+H	java:S106î"+Replace this use of System.out by a logger.(ƒëëí8îà¶¾Þ1
+Y	java:S125ð"<This block of commented-out lines of code should be removed.(Î®Î»8îà¶¾Þ1
+H	java:S106ó"+Replace this use of System.out by a logger.(ïðë´8îà¶¾Þ1
